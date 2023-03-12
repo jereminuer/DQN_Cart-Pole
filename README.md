@@ -3,4 +3,6 @@ The goal of this project was to create a Deep Q-Learning agent which solves the 
 
 The intention was to teach myself DQNs and become a better programmer. It was successful in clarifying my understanding of DQNs, and I successfully reached the two second mark!
 
-#Details
+##Details
+
+There are a couple functions of note I'll describe quickly.
