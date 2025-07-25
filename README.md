@@ -3,6 +3,12 @@ The goal of this project was to create a Deep Q-Learning agent which solves the 
 
 The intention was to teach myself DQNs and become a better programmer. It was successful in clarifying my understanding of DQNs, and I successfully reached the two second mark! Also to note: this was a project I coded in 2022, but adding it now to Github. 
 
+## Results
+
+![Trained Agent Performance](assets/trained_result.gif)
+
+![Training Rewards](assets/returns-2.png)
+
 ## Details
 
 Though Open AI gym has become Gymnasium, I decided to continue with just the gym library, as that was the simplest option and this is just for documenting my progress/projects.
