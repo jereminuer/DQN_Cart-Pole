@@ -5,9 +5,7 @@ The intention was to teach myself DQNs and become a better programmer. It was su
 
 ## Results
 
-![Trained Agent Performance](assets/trained_result.gif)
-
-![Training Rewards](assets/returns-2.png)
+<img src="assets/trained_result.gif" alt="Trained Agent Performance" width="48%"> <img src="assets/returns-2.png" alt="Training Rewards" width="48%">
 
 ## Details
 
